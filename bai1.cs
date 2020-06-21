@@ -3,34 +3,55 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Hw1
+namespace Hw_1
 {
     class bai1
     {
         static void Main(string[] args)
         {
-            TComplex sp = new TComplex();
-            sp.input();
-            Console.Write("sp = ");
-            sp.output();
-            TComplex sp1, sp2, sp3, sp4, sp5;
-            sp1 = new TComplex();
-            Console.Write("sp1 = ");
-            sp1.output();
-            sp2 = new TComplex(2, 3);
-            Console.Write("sp2 = ");
-            sp2.output();
+            int Day, Month, Year;
+            Console.WriteLine("Nhap ngay, thang, nam:");
+            Console.Write("Day : ");
+            Day = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Month : ");
+            Month = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Year : ");
+            Year = Convert.ToInt32(Console.ReadLine());
 
-            sp3 = sp1 - sp2;
-            Console.Write("sp3 = sp1 - sp2 = ");
-            sp3.output();
-            sp4 = sp1 + sp2;
-            Console.Write("sp4 = sp1 + sp2 = ");
-            sp4.output();
-            sp5 = sp4 * sp3;
-            Console.Write("sp5 = sp4 * sp3 = ");
-            sp5.output();
-            
+            if (Month == 1 || Month == 3 || Month == 5 || Month == 7 || Month == 8 || Month == 10 || Month == 12)
+            {
+                if (Day >= 1 && Day <= 31)
+                    Console.WriteLine("{0}/{1}/{2} la ngay hop le", Day, Month, Year);
+                else
+                    Console.WriteLine("{0} ngay khong hop le", Day);
+            }
+
+            if (Month == 9 || Month == 6 || Month == 4 || Month == 11)
+            {
+                if (Day >= 1 && Day <= 30)
+                    Console.WriteLine("{0}/{1}/{2} la ngay hop le", Day, Month, Year);
+                else
+                    Console.WriteLine("{0} ngay khong hop le", Day);
+            }
+
+            if (Month == 2)
+            {
+                if (Year % 400 == 0 || Year % 4 == 0 && Year % 100 != 0)
+                {
+                    if (Day >= 1 && Day <= 29)
+                        Console.WriteLine("{0}/{1}/{2} la ngay hop le", Day, Month, Year);
+                    else
+                        Console.WriteLine("{0} ngay khong hop le", Day);
+                }
+                else
+                {
+                    if (Day >= 1 && Day <= 28)
+                        Console.WriteLine("{0}/{1}/{2} la ngay hop le", Day, Month, Year);
+                    else
+                        Console.WriteLine("{0} ngay khong hop le", Day);
+                }
+            }
+
         }
     }
 }
