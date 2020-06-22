@@ -1,0 +1,4 @@
+C:\Users\thang\Desktop\C#\bai tap ve class\Hw1\bin\Debug\Hw1.exe
+C:\Users\thang\Desktop\C#\bai tap ve class\Hw1\bin\Debug\Hw1.pdb
+C:\Users\thang\Desktop\C#\bai tap ve class\Hw1\obj\x86\Debug\Hw1.exe
+C:\Users\thang\Desktop\C#\bai tap ve class\Hw1\obj\x86\Debug\Hw1.pdb
