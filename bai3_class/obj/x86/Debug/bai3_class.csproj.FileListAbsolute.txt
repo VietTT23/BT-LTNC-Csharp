@@ -1,0 +1,4 @@
+C:\Users\thang\Desktop\C#\bai tap ve class\bai3_class\bin\Debug\Hw3.exe
+C:\Users\thang\Desktop\C#\bai tap ve class\bai3_class\bin\Debug\Hw3.pdb
+C:\Users\thang\Desktop\C#\bai tap ve class\bai3_class\obj\x86\Debug\Hw3.exe
+C:\Users\thang\Desktop\C#\bai tap ve class\bai3_class\obj\x86\Debug\Hw3.pdb
