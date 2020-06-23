@@ -40,6 +40,4 @@ namespace bai4_class
             Console.WriteLine(tuoi);
         }
     }
-
-    class 
 }
