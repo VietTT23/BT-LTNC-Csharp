@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\winform\Testwinform\WF1\bin\Debug\WF1.exe
+C:\Users\thang\Desktop\C#\winform\Testwinform\WF1\bin\Debug\WF1.pdb
+C:\Users\thang\Desktop\C#\winform\Testwinform\WF1\obj\x86\Debug\WF1.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\Testwinform\WF1\obj\x86\Debug\WF1.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\Testwinform\WF1\obj\x86\Debug\WF1.exe
+C:\Users\thang\Desktop\C#\winform\Testwinform\WF1\obj\x86\Debug\WF1.pdb
+C:\Users\thang\Desktop\C#\winform\Testwinform\WF1\obj\x86\Debug\WF1.testForm1.resources

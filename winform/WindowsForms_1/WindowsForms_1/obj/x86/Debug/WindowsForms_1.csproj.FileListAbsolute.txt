@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\winform\WindowsForms_1\WindowsForms_1\bin\Debug\WindowsForms_1.exe
+C:\Users\thang\Desktop\C#\winform\WindowsForms_1\WindowsForms_1\bin\Debug\WindowsForms_1.pdb
+C:\Users\thang\Desktop\C#\winform\WindowsForms_1\WindowsForms_1\obj\x86\Debug\WindowsForms_1.Form1.resources
+C:\Users\thang\Desktop\C#\winform\WindowsForms_1\WindowsForms_1\obj\x86\Debug\WindowsForms_1.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\WindowsForms_1\WindowsForms_1\obj\x86\Debug\WindowsForms_1.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\WindowsForms_1\WindowsForms_1\obj\x86\Debug\WindowsForms_1.exe
+C:\Users\thang\Desktop\C#\winform\WindowsForms_1\WindowsForms_1\obj\x86\Debug\WindowsForms_1.pdb
