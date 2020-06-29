@@ -1,0 +1,8 @@
+C:\Users\thang\Desktop\C#\winform\WindowsForms_3\WindowsForms_3\bin\Debug\WindowsForms_3.exe
+C:\Users\thang\Desktop\C#\winform\WindowsForms_3\WindowsForms_3\bin\Debug\WindowsForms_3.pdb
+C:\Users\thang\Desktop\C#\winform\WindowsForms_3\WindowsForms_3\obj\x86\Debug\WindowsForms_3.Form1.resources
+C:\Users\thang\Desktop\C#\winform\WindowsForms_3\WindowsForms_3\obj\x86\Debug\WindowsForms_3.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\WindowsForms_3\WindowsForms_3\obj\x86\Debug\WindowsForms_3.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\WindowsForms_3\WindowsForms_3\obj\x86\Debug\WindowsForms_3.exe
+C:\Users\thang\Desktop\C#\winform\WindowsForms_3\WindowsForms_3\obj\x86\Debug\WindowsForms_3.pdb
+C:\Users\thang\Desktop\C#\winform\WindowsForms_3\WindowsForms_3\obj\x86\Debug\WindowsForms_3.Hoadon.resources
