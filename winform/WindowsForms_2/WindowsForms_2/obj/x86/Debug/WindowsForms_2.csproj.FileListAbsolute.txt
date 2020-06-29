@@ -5,3 +5,4 @@ C:\Users\thang\Desktop\C#\winform\WindowsForms_2\WindowsForms_2\bin\Debug\Window
 C:\Users\thang\Desktop\C#\winform\WindowsForms_2\WindowsForms_2\bin\Debug\WindowsForms_2.pdb
 C:\Users\thang\Desktop\C#\winform\WindowsForms_2\WindowsForms_2\obj\x86\Debug\WindowsForms_2.exe
 C:\Users\thang\Desktop\C#\winform\WindowsForms_2\WindowsForms_2\obj\x86\Debug\WindowsForms_2.pdb
+C:\Users\thang\Desktop\C#\winform\WindowsForms_2\WindowsForms_2\obj\x86\Debug\WindowsForms_2.csprojResolveAssemblyReference.cache
