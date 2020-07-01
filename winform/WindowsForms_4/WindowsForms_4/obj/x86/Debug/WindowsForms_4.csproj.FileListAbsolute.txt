@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\winform\WindowsForms_4\WindowsForms_4\bin\Debug\WindowsForms_4.exe
+C:\Users\thang\Desktop\C#\winform\WindowsForms_4\WindowsForms_4\bin\Debug\WindowsForms_4.pdb
+C:\Users\thang\Desktop\C#\winform\WindowsForms_4\WindowsForms_4\obj\x86\Debug\WindowsForms_4.Form1.resources
+C:\Users\thang\Desktop\C#\winform\WindowsForms_4\WindowsForms_4\obj\x86\Debug\WindowsForms_4.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\WindowsForms_4\WindowsForms_4\obj\x86\Debug\WindowsForms_4.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\WindowsForms_4\WindowsForms_4\obj\x86\Debug\WindowsForms_4.exe
+C:\Users\thang\Desktop\C#\winform\WindowsForms_4\WindowsForms_4\obj\x86\Debug\WindowsForms_4.pdb
