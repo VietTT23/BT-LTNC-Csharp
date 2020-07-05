@@ -1,0 +1,8 @@
+C:\Users\thang\Desktop\C#\winform\WindowsForms_5\WindowsForms_5\bin\Debug\WindowsForms_5.exe
+C:\Users\thang\Desktop\C#\winform\WindowsForms_5\WindowsForms_5\bin\Debug\WindowsForms_5.pdb
+C:\Users\thang\Desktop\C#\winform\WindowsForms_5\WindowsForms_5\obj\x86\Debug\WindowsForms_5.Form1.resources
+C:\Users\thang\Desktop\C#\winform\WindowsForms_5\WindowsForms_5\obj\x86\Debug\WindowsForms_5.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\WindowsForms_5\WindowsForms_5\obj\x86\Debug\WindowsForms_5.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\WindowsForms_5\WindowsForms_5\obj\x86\Debug\WindowsForms_5.exe
+C:\Users\thang\Desktop\C#\winform\WindowsForms_5\WindowsForms_5\obj\x86\Debug\WindowsForms_5.pdb
+C:\Users\thang\Desktop\C#\winform\WindowsForms_5\WindowsForms_5\obj\x86\Debug\WindowsForms_5.csprojResolveAssemblyReference.cache
