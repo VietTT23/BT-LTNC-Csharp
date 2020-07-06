@@ -11,44 +11,11 @@ namespace WindowsForms_5
 {
     public partial class Form1 : Form
     {
-        public List<ThongTinSinhVien> TTSV { get; set; }
+        
         public Form1()
-        {
-            //TTSV = GetTTSV();
+        {   
             InitializeComponent();
         }
-
-        private List<ThongTinSinhVien> GetTTSV()
-        {
-            var DSSV = new List<ThongTinSinhVien>();
-            DSSV.Add(new ThongTinSinhVien()
-            {
-                MaSV = Convert.ToInt32(txtMaSV.Text),
-                HoTen = txtHoTen.Text,
-                NgaySinh = datetimeNgaySinh.Text,
-                //GioiTinh
-                QueQuan = cbxQueQuan.Text,
-                Khoa = cbxKhoa.Text,
-                Lop = cbxLop.Text
-            });
-            return DSSV;
-        }
-
-        //private List<ThongTinSinhVien> GetTTS()
-        //{
-        //    var DSSV = new List<ThongTinSinhVien>();
-        //    DSSV.Add(new ThongTinSinhVien()
-        //    {
-        //        MaSV = Convert.ToInt32(txtMaSV.Text),
-        //        HoTen = txtHoTen.Text,
-        //        NgaySinh = datetimeNgaySinh.Text,
-        //        //GioiTinh
-        //        QueQuan = cbxQueQuan.Text,
-        //        Khoa = cbxKhoa.Text,
-        //        Lop = cbxLop.Text
-        //    });
-        //    return DSSV;
-        //}
 
         List<string> dsLopCNTT;
         List<string> dsLopCT;
@@ -109,10 +76,43 @@ namespace WindowsForms_5
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btThem_Click(object sender, EventArgs e)
         {
-            var ttsv = this.TTSV;
-            dataGridView1.DataSource = ttsv;
+            string gioiTinh;
+
+            if (rbtNam.Checked == true)
+            {
+                gioiTinh = rbtNam.Text;
+            }
+            else
+            {
+                gioiTinh = rbtNu.Text;
+            }
+
+            DataGridViewRow row = (DataGridViewRow)dataGridView1.Rows[0].Clone();
+            row.Cells[dataGridView1.Columns["ColumnMaSV"].Index].Value = txtMaSV.Text;
+            row.Cells[dataGridView1.Columns["ColumnHoTen"].Index].Value = txtHoTen.Text;
+            row.Cells[dataGridView1.Columns["ColumnNgaySinh"].Index].Value = datetimeNgaySinh.Text;
+            row.Cells[dataGridView1.Columns["ColumnGioiTinh"].Index].Value = gioiTinh;
+            row.Cells[dataGridView1.Columns["ColumnQueQuan"].Index].Value = cbxQueQuan.Text;
+            row.Cells[dataGridView1.Columns["ColumnLop"].Index].Value = cbxLop.Text;
+            row.Cells[dataGridView1.Columns["ColumnKhoa"].Index].Value = cbxKhoa.Text;
+            dataGridView1.Rows.Add(row);
+        }
+
+        private void btSua_Click(object sender, EventArgs e)
+        {
+            
+            dataGridView1.ReadOnly = false;
+                
+        }
+
+        private void btXoa_Click(object sender, EventArgs e)
+        {
+            foreach (DataGridViewRow row in this.dataGridView1.SelectedRows)
+            {
+                dataGridView1.Rows.RemoveAt(row.Index);
+            }
         }
     }
 }
