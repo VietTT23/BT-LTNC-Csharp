@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\winform\frm_Quoc_gia\frm_Quoc_gia\bin\Debug\frm_Quoc_gia.exe
+C:\Users\thang\Desktop\C#\winform\frm_Quoc_gia\frm_Quoc_gia\bin\Debug\frm_Quoc_gia.pdb
+C:\Users\thang\Desktop\C#\winform\frm_Quoc_gia\frm_Quoc_gia\obj\x86\Debug\frm_Quoc_gia.Form1.resources
+C:\Users\thang\Desktop\C#\winform\frm_Quoc_gia\frm_Quoc_gia\obj\x86\Debug\frm_Quoc_gia.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\frm_Quoc_gia\frm_Quoc_gia\obj\x86\Debug\frm_Quoc_gia.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\frm_Quoc_gia\frm_Quoc_gia\obj\x86\Debug\frm_Quoc_gia.exe
+C:\Users\thang\Desktop\C#\winform\frm_Quoc_gia\frm_Quoc_gia\obj\x86\Debug\frm_Quoc_gia.pdb

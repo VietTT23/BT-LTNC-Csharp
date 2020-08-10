@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\winform\frm_Font\frm_Font\bin\Debug\frm_Font.exe
+C:\Users\thang\Desktop\C#\winform\frm_Font\frm_Font\bin\Debug\frm_Font.pdb
+C:\Users\thang\Desktop\C#\winform\frm_Font\frm_Font\obj\x86\Debug\frm_Font.Form1.resources
+C:\Users\thang\Desktop\C#\winform\frm_Font\frm_Font\obj\x86\Debug\frm_Font.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\frm_Font\frm_Font\obj\x86\Debug\frm_Font.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\frm_Font\frm_Font\obj\x86\Debug\frm_Font.exe
+C:\Users\thang\Desktop\C#\winform\frm_Font\frm_Font\obj\x86\Debug\frm_Font.pdb
