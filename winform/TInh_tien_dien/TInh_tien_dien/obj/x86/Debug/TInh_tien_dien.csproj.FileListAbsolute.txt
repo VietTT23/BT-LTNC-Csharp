@@ -1,0 +1,8 @@
+C:\Users\thang\Desktop\C#\winform\TInh_tien_dien\TInh_tien_dien\bin\Debug\TInh_tien_dien.exe
+C:\Users\thang\Desktop\C#\winform\TInh_tien_dien\TInh_tien_dien\bin\Debug\TInh_tien_dien.pdb
+C:\Users\thang\Desktop\C#\winform\TInh_tien_dien\TInh_tien_dien\obj\x86\Debug\TInh_tien_dien.Form1.resources
+C:\Users\thang\Desktop\C#\winform\TInh_tien_dien\TInh_tien_dien\obj\x86\Debug\TInh_tien_dien.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\TInh_tien_dien\TInh_tien_dien\obj\x86\Debug\TInh_tien_dien.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\TInh_tien_dien\TInh_tien_dien\obj\x86\Debug\TInh_tien_dien.exe
+C:\Users\thang\Desktop\C#\winform\TInh_tien_dien\TInh_tien_dien\obj\x86\Debug\TInh_tien_dien.pdb
+C:\Users\thang\Desktop\C#\winform\TInh_tien_dien\TInh_tien_dien\bin\Debug\TInh_tien_dien.exe.config

@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\winform\Phep_tinh\Phep_tinh\bin\Debug\Phep_tinh.exe
+C:\Users\thang\Desktop\C#\winform\Phep_tinh\Phep_tinh\bin\Debug\Phep_tinh.pdb
+C:\Users\thang\Desktop\C#\winform\Phep_tinh\Phep_tinh\obj\x86\Debug\Phep_tinh.Form1.resources
+C:\Users\thang\Desktop\C#\winform\Phep_tinh\Phep_tinh\obj\x86\Debug\Phep_tinh.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\Phep_tinh\Phep_tinh\obj\x86\Debug\Phep_tinh.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\Phep_tinh\Phep_tinh\obj\x86\Debug\Phep_tinh.exe
+C:\Users\thang\Desktop\C#\winform\Phep_tinh\Phep_tinh\obj\x86\Debug\Phep_tinh.pdb
