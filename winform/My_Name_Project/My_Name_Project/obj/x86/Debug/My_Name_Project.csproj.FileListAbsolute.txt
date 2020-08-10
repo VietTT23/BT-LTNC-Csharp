@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\winform\My_Name_Project\My_Name_Project\bin\Debug\My_Name_Project.exe
+C:\Users\thang\Desktop\C#\winform\My_Name_Project\My_Name_Project\bin\Debug\My_Name_Project.pdb
+C:\Users\thang\Desktop\C#\winform\My_Name_Project\My_Name_Project\obj\x86\Debug\My_Name_Project.Form1.resources
+C:\Users\thang\Desktop\C#\winform\My_Name_Project\My_Name_Project\obj\x86\Debug\My_Name_Project.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\My_Name_Project\My_Name_Project\obj\x86\Debug\My_Name_Project.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\My_Name_Project\My_Name_Project\obj\x86\Debug\My_Name_Project.exe
+C:\Users\thang\Desktop\C#\winform\My_Name_Project\My_Name_Project\obj\x86\Debug\My_Name_Project.pdb

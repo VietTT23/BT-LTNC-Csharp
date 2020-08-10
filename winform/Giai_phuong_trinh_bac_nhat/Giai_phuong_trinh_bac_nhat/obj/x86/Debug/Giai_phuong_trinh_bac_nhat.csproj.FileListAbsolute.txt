@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\winform\Giai_phuong_trinh_bac_nhat\Giai_phuong_trinh_bac_nhat\bin\Debug\Giai_phuong_trinh_bac_nhat.exe
+C:\Users\thang\Desktop\C#\winform\Giai_phuong_trinh_bac_nhat\Giai_phuong_trinh_bac_nhat\bin\Debug\Giai_phuong_trinh_bac_nhat.pdb
+C:\Users\thang\Desktop\C#\winform\Giai_phuong_trinh_bac_nhat\Giai_phuong_trinh_bac_nhat\obj\x86\Debug\Giai_phuong_trinh_bac_nhat.Form1.resources
+C:\Users\thang\Desktop\C#\winform\Giai_phuong_trinh_bac_nhat\Giai_phuong_trinh_bac_nhat\obj\x86\Debug\Giai_phuong_trinh_bac_nhat.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\Giai_phuong_trinh_bac_nhat\Giai_phuong_trinh_bac_nhat\obj\x86\Debug\Giai_phuong_trinh_bac_nhat.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\Giai_phuong_trinh_bac_nhat\Giai_phuong_trinh_bac_nhat\obj\x86\Debug\Giai_phuong_trinh_bac_nhat.exe
+C:\Users\thang\Desktop\C#\winform\Giai_phuong_trinh_bac_nhat\Giai_phuong_trinh_bac_nhat\obj\x86\Debug\Giai_phuong_trinh_bac_nhat.pdb
