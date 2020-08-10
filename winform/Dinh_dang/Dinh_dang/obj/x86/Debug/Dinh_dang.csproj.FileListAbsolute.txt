@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\winform\Dinh_dang\Dinh_dang\bin\Debug\Dinh_dang.exe
+C:\Users\thang\Desktop\C#\winform\Dinh_dang\Dinh_dang\bin\Debug\Dinh_dang.pdb
+C:\Users\thang\Desktop\C#\winform\Dinh_dang\Dinh_dang\obj\x86\Debug\Dinh_dang.Form1.resources
+C:\Users\thang\Desktop\C#\winform\Dinh_dang\Dinh_dang\obj\x86\Debug\Dinh_dang.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\Dinh_dang\Dinh_dang\obj\x86\Debug\Dinh_dang.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\Dinh_dang\Dinh_dang\obj\x86\Debug\Dinh_dang.exe
+C:\Users\thang\Desktop\C#\winform\Dinh_dang\Dinh_dang\obj\x86\Debug\Dinh_dang.pdb

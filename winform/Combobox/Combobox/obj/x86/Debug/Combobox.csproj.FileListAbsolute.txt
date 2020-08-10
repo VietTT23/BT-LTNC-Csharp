@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\winform\Combobox\Combobox\bin\Debug\Combobox.exe
+C:\Users\thang\Desktop\C#\winform\Combobox\Combobox\bin\Debug\Combobox.pdb
+C:\Users\thang\Desktop\C#\winform\Combobox\Combobox\obj\x86\Debug\Combobox.Form1.resources
+C:\Users\thang\Desktop\C#\winform\Combobox\Combobox\obj\x86\Debug\Combobox.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\Combobox\Combobox\obj\x86\Debug\Combobox.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\Combobox\Combobox\obj\x86\Debug\Combobox.exe
+C:\Users\thang\Desktop\C#\winform\Combobox\Combobox\obj\x86\Debug\Combobox.pdb
