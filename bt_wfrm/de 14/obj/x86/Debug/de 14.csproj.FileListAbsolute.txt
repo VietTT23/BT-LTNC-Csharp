@@ -1,0 +1,9 @@
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 14\bin\Debug\de 14.exe
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 14\bin\Debug\de 14.pdb
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 14\obj\x86\Debug\de_14.Form1.resources
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 14\obj\x86\Debug\de_14.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 14\obj\x86\Debug\de 14.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 14\obj\x86\Debug\de 14.exe
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 14\obj\x86\Debug\de 14.pdb
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 14\bin\Debug\de 14.exe.config
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 14\obj\x86\Debug\de 14.csprojResolveAssemblyReference.cache

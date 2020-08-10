@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 15\bin\Debug\de 15.exe
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 15\bin\Debug\de 15.pdb
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 15\obj\x86\Debug\de_15.Form1.resources
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 15\obj\x86\Debug\de_15.Properties.Resources.resources
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 15\obj\x86\Debug\de 15.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 15\obj\x86\Debug\de 15.exe
+C:\Users\thang\Desktop\C#\winform\bt_wfrm\de 15\obj\x86\Debug\de 15.pdb
